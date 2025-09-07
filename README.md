@@ -1,1 +1,1 @@
-i don't like sharing my food 🍱
+i don't like sharing my food.
