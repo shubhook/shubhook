@@ -12,6 +12,7 @@ Anyways you can checkout my work.
 
 #### Open source
 - **[Cap](https://github.com/CapSoftware/Cap/pull/2551)** - merged: faster Linux screen capture via X11 shared memory, 1080p recording from ~41 to ~59 fps.
+- **[AgentPlay](https://github.com/Entelligence-AI/agentplay/pull/35)** - merged: Gemini CLI session parser, so AgentPlay can replay Gemini CLI runs as session, turn and tool spans.
 
 #### Support my work
 If something I build helps you, you can fuel the next one:
