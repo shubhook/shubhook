@@ -11,9 +11,9 @@ Anyways you can checkout my work.
 - **[SkillSync.ai](https://aiskillsync.vercel.app/)** - finds non-generic project ideas that match your tech stack.
 
 #### Open source
-- **[Cap](https://github.com/CapSoftware/Cap/pull/2551)** - merged: faster Linux screen capture via X11 shared memory, 1080p recording from ~41 to ~59 fps.
-- **[AgentPlay](https://github.com/Entelligence-AI/agentplay/pull/35)** - merged: Gemini CLI session parser, so AgentPlay can replay Gemini CLI runs as session, turn and tool spans.
-- **[AgentPlay](https://github.com/Entelligence-AI/agentplay/pull/36)** - merged: Antigravity CLI session parser, so AgentPlay can replay Antigravity (agy) runs as session, turn and tool spans.
+- **[#2551 Cap](https://github.com/CapSoftware/Cap/pull/2551)** - merged: faster Linux screen capture via X11 shared memory, 1080p recording from ~41 to ~59 fps.
+- **[#35 AgentPlay](https://github.com/Entelligence-AI/agentplay/pull/35)** - merged: Gemini CLI session parser, so AgentPlay can replay Gemini CLI runs as session, turn and tool spans.
+- **[#36 AgentPlay](https://github.com/Entelligence-AI/agentplay/pull/36)** - merged: Antigravity CLI session parser, so AgentPlay can replay Antigravity (agy) runs as session, turn and tool spans.
 
 #### Support my work
 If something I build helps you, you can fuel the next one:
