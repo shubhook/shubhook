@@ -12,6 +12,7 @@ Anyways you can checkout my work.
 
 #### Open source
 - **[#2551 Cap](https://github.com/CapSoftware/Cap/pull/2551)** - merged: faster Linux screen capture via X11 shared memory, 1080p recording from ~41 to ~59 fps.
+- **[#3102 Cap](https://github.com/CapSoftware/Cap/pull/3102)** - merged: aarch64 NEON paths for screenshot pixel packers, 5.3x to 6.6x faster on Apple Silicon (M2).
 - **[#35 AgentPlay](https://github.com/Entelligence-AI/agentplay/pull/35)** - merged: Gemini CLI session parser, so AgentPlay can replay Gemini CLI runs as session, turn and tool spans.
 - **[#36 AgentPlay](https://github.com/Entelligence-AI/agentplay/pull/36)** - merged: Antigravity CLI session parser, so AgentPlay can replay Antigravity (agy) runs as session, turn and tool spans.
 
